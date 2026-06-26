@@ -1,0 +1,19 @@
+=== Propriedades de p1 (apos instanciacao) ===
+Paciente : Maria Silva
+Medico   : Dr. Carlos Lima
+Data     : 15/06/26
+Hora     : 10:30:00
+
+=== Propriedades de p2 (apos instanciacao) ===
+Paciente : julia
+Medico   : lucas
+Data     : 04/03/23
+Hora     : 12:03:02
+
+=== Propriedades de p1 (apos alteracao) ===
+Paciente : laura
+Medico   : larissa
+Data     : 02/05/12
+Hora     : 11:03:02
+
+Quantidade total de consultas agendadas: 2
