@@ -24,4 +24,4 @@ O resultado é exibido no console e salvo em `resultado.txt`.
 
 ## Vídeo do código rodando
 
-🔗 [clique aqui]()
+🔗 https://www.youtube.com/watch?v=HmnsMx9ffWk&feature=youtu.be
